@@ -12,8 +12,11 @@
   "dependencies": {
     "@deepgram/sdk": "^3.6.0",
     "cross-fetch": "^4.0.0",
+    "dotenv": "^16.4.5",
     "express": "^4.20.0",
     "mic": "^2.1.2",
-    "nodemon": "^3.1.4"
+    "node-record-lpcm16": "^1.0.1",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5"
   }
 }
