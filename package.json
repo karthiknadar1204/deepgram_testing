@@ -1,0 +1,19 @@
+{
+  "name": "deepgram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@deepgram/sdk": "^3.6.0",
+    "cross-fetch": "^4.0.0",
+    "express": "^4.20.0",
+    "mic": "^2.1.2",
+    "nodemon": "^3.1.4"
+  }
+}
